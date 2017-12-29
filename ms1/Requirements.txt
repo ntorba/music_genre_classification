@@ -1,3 +1,0 @@
-
-
-install pretty-midi {pip install pretty-midi}
